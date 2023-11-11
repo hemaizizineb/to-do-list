@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemaizizineb
 - 👀 I’m interested in web dev and security
-- 🌱 I’m currently learning web 
+- 🌱 I’m currently learning web  dev
 
 
 <!---
