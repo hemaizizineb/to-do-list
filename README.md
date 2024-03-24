@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @hemaizizineb
-- 👀 I’m interested in web dev and security
-- 🌱 I’m currently learning web  dev
+-computer science student 
+- 👀 I’m interested in web dev and security and programming
+- 🌱 I’m currently a ctf player and a learning with small projects
+-programming languages I learnt so far are: C , Java , Python 
 
+don't hesitate to check ou!
 
 <!---
 hemaizizineb/hemaizizineb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
